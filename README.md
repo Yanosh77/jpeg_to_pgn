@@ -52,7 +52,7 @@ The application uses `tkinter` for the graphical interface and `Pillow` (PIL For
 3. **Convert:** Click the "Convert" button to start the conversion process. A "converted" folder will be created in your selected directory, containing the new PNG images.
 
 ## Screenshot
-
+![Screenshot](screenshot.jpg)
 
 
 ## Contributing
